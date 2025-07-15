@@ -1,4 +1,4 @@
-package com.rufu.springboot.jpa_and_hibernate.jdbc;
+package com.rufu.springboot.jpa_and_hibernate.course.jdbc;
 
 import com.rufu.springboot.jpa_and_hibernate.course.Course;
 import org.springframework.beans.factory.annotation.Autowired;
